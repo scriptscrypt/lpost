@@ -1,0 +1,14 @@
+.rf{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.cf{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+}
+.jusSpcBtw{
+    justify-content: space-between;
+}
