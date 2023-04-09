@@ -16,11 +16,11 @@ function AppLayout() {
   
 const store = createStore({
   key: "N332Q4lexvN9uJgLaw8n",
-  showCredit: true
+  showCredit: false
 });
 
   return (
-
+    
     <AppShell
       padding="md"
       navbar={
